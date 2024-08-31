@@ -14,4 +14,12 @@ This project is an automated personal assistant that can perform various tasks o
 - `plyer` for desktop notifications
 - `requests` for fetching weather data
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/abhiram-nss-07/Automated-Personal-Assistant
+   cd Automated-Personal-Assistant
+
+
 
